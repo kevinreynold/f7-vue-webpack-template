@@ -23,7 +23,7 @@ import Framework7Icons from 'framework7-icons/css/framework7-icons.css'
 import AppStyles from './css/app.css'
 
 // Import Bootstrap
-import BootstrapCSS from './css/bootstrap.min.css'
+// import BootstrapCSS from './css/bootstrap.min.css'
 // import BootstrapJS from './js/bootstrap.min.js'
 
 // Import Routes
