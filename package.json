@@ -1,6 +1,5 @@
 {
   "name": "framework7-vue-webpack-template",
-  "version": "1.0",
   "description": "Framework7 Vue + Webpack template",
   "scripts": {
     "dev": "cross-env NODE_ENV=development node build/dev-server.js",
